@@ -23,7 +23,7 @@
   <!-- Add your site or application content here -->
   <div class="jumbotron  jumbotron-fluid">
     <div class="container">
-      <h1 class="display-4">Rakesh</h1>
+      <h1 class="display-4">Rajesh Kumar</h1>
       <img src="'Rajesh.jpg" alt="Rajesh Kumar's image">
     </div>
   </div>
