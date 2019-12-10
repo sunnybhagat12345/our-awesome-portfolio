@@ -24,7 +24,7 @@
   <div class="jumbotron  jumbotron-fluid">
     <div class="container">
       <h1 class="display-4">Rakesh</h1>
-      <img src="w.jpg" alt="Rajesh Kumar's image">
+      <img src="'Rajesh.jpg" alt="Rajesh Kumar's image">
     </div>
   </div>
 
