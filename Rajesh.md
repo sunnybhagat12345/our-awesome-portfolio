@@ -24,16 +24,16 @@
   <div class="jumbotron  jumbotron-fluid">
     <div class="container">
       <h1 class="display-4">Rakesh</h1>
-      <img src="Rakesh.jpg" alt="Rakesh image">
+      <img src="w.jpg" alt="Rajesh Kumar's image">
     </div>
   </div>
 
   <div class="container">
     <p>
-      I am an IT Student and working as QMS Analyst in Merck Pharmaceuticals
+       My name is Rajesh Kumar, an IT Student.I am Studying in Czech University of Life Science. I am very hard working guy. Pharmaceuticals
     </p>
 
-    <p>I am living in Prague, but I am from Hyderabad City, South India</p>
+    <p> I am living in Prague; basically, I belong to Punjab which is northen side of India.</p>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
